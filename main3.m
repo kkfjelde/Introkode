@@ -1,6 +1,9 @@
 
 clear % Start with clear command to delete old stuff
 
+% NÅ legger eg til mer endringer!
+
+
 % We are going to plot function f(x)=x^2-4x+2 
 
 a=-1; % define minimum x value
